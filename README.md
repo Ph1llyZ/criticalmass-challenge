@@ -14,10 +14,14 @@ Technical Challenge for Critical Mass 2022
 # Inspiration
 
 1. Project 1: [Vinyl Emulator](https://www.hackster.io/mark-hank/sonos-spotify-vinyl-emulator-3be63d)
+
    This project inspired me since I am interested in embedded systems; the Raspberry Pi is a great tool for creating small, self-contained devices, such as a "record player". The Spotify api integration is really interesting to me for its ability call upon Spotify's song database to play music after scanning an NFC tag with the relevant call details. IoT is also another interest of mine and this integrates well into a connected home system.
 2. Project 2: [Automatic Shirt Folding Machine](https://www.youtube.com/watch?v=rhWaHSUVGco&t=8s)
+
    This project is really interesting to me since I think about automating laundry folding everytime I fold my clothes when I take them out of the dryer. The motor control assembly and 3D printed adapter parts for the motor are the coolest part of the project because 3D printing is another major hobby of mine. The coding aspect of the project to control the motor functions is also very interesting since the maker was able to see their changes to control and adjust the rotation speed and duration in real-time. Overall, this project combines CAD work, embedded systems, and mechanical design, all of which greatly interests me.
 3. Project 3: [MagicMirror](https://github.com/MichMich/MagicMirror)
+
+
    I recently completed an interation of this project on a spare 21" TV and a Raspberry Pi 3B, and I was amazed at the customization options within the modular system. The integration of the individual modules (my favourite being the NowPlayingOnSpotify) within the broader smart mirror is fascinating to me, not to mention the technical capabilities of the modules themselves. The software is understandable even without much technical experience and I was able to customise my MagicMirror just by following the guides provided. Overall, this project showcases api integration in an easy to read at-a-glance implementation very well, and I hope to develop my own MagicMirror module in the future.
 
 # Focus
