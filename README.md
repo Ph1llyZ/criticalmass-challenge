@@ -2,11 +2,11 @@
 Technical Challenge for Critical Mass 2022
 # Work / Project Examples
 
-1. Project 1: U of A ESS 2022 By-Election Campaign Website: [Vote Eric & Philip!] (https://sites.ualberta.ca/~hongchen/)
+1. Project 1: U of A ESS 2022 By-Election Campaign Website: [Vote Eric & Philip!](https://sites.ualberta.ca/~hongchen/)
    For this project, I was responsible for designing, coding, and uploading the website for our campaign in  the 2022 ESS By-election for VP Finance. The frontend was created using Bootstrap Studio and hosted on the U  of A sites service. Using Bootstrap Studio provided the HTML and CSS template and styling without having to create everything from scratch as the entire project needed to be completed within the day. Photos were taken by myself and Adrian Wattamaniuk.
    
 2. Project 2: [BTFM](https://btfm.ca) 
-    BTFM is streetwear my friend Andy and I created during the pandemic as a creative and technical outlet. I created the designs using Photoshop, transferred them via HTV to the sweater using a Cricut vinyl cutter, and uploaded the item images to the Square site. Product and model images were taken by myself and Andy Chung.
+     is streetwear my friend Andy and I created during the pandemic as a creative and technical outlet. I created the designs using Photoshop, transferred them via HTV to the sweater using a Cricut vinyl cutter, and uploaded the item images to the Square site. Product and model images were taken by myself and Andy Chung.
 3. Project 3: FSAE EV
    I am a powertrain lead for the U of A FSAE EV division. For this project, I researched electric motors based on torque and output power requirements. Once the motor was selected and purchased, I collaborated with the rest of the EV team to retrofit a gasoline gokart with the new electric motor and battery to demonstrate feasibility before we continue with the retrofit of a full-sized FSAE racecar with a larger battery and electric motor. During the gokart retrofit, I cut aluminum sheets to size using an angle grinder as a mounting base for the motor and afixed them to the gokart.
    
