@@ -8,11 +8,11 @@ Technical Challenge for Critical Mass 2022
 2. Project 2: [BTFM](https://btfm.ca) 
      is streetwear my friend Andy and I created during the pandemic as a creative and technical outlet. I created the designs using Photoshop, transferred them via HTV to the sweater using a Cricut vinyl cutter, and uploaded the item images to the Square site. Product and model images were taken by myself and Andy Chung.
 3. Project 3: FSAE EV
+
    I am a powertrain lead for the U of A FSAE EV division. For this project, I researched electric motors based on torque and output power requirements. Once the motor was selected and purchased, I collaborated with the rest of the EV team to retrofit a gasoline gokart with the new electric motor and battery to demonstrate feasibility before we continue with the retrofit of a full-sized FSAE racecar with a larger battery and electric motor. During the gokart retrofit, I cut aluminum sheets to size using an angle grinder as a mounting base for the motor and afixed them to the gokart.
    
 # Inspiration
 
-Provide up to three examples of work that has recently inspired you from a technical perspective. These can be open source projects, CodePens/CodeSandboxes, blog posts, etc. Be sure to include specifics on what you found inspiring.
 1. Project 1: [Vinyl Emulator](https://www.hackster.io/mark-hank/sonos-spotify-vinyl-emulator-3be63d)
    This project inspired me since I am interested in embedded systems; the Raspberry Pi is a great tool for creating small, self-contained devices, such as a "record player". The Spotify api integration is really interesting to me for its ability call upon Spotify's song database to play music after scanning an NFC tag with the relevant call details. IoT is also another interest of mine and this integrates well into a connected home system.
 2. Project 2: [Automatic Shirt Folding Machine](https://www.youtube.com/watch?v=rhWaHSUVGco&t=8s)
