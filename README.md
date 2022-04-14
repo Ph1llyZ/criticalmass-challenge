@@ -22,7 +22,7 @@ Technical Challenge for Critical Mass 2022
 
 # Focus
 
-A project idea that I have had for a while is a Peters' Milkshake flavour combinator; the milkshake flavour menu at Peters' is quite daunting to browse, and having an app that combines up to 3 flavours for you seems like a fun way to try new flavours and discover your next favourite combination (my current one is Maple Walnut + Marshmallow). It would be quite easy to build a random combo generator, but this would inevitably create some very *interesting* milkshakes. Another level to this would use word2vec and sentiment analysis to group similar flavours together (i.e. berries, fruits, etc.) to intelligently combine the flavours instead of by random chance.
+A project idea that I have had for a while is a Peters' Milkshake flavour combinator; the milkshake flavour menu at Peters' is quite daunting to browse, and having an app that combines up to 3 flavours for you seems like a fun way to try new flavours and discover your next favourite combination (my current one is Maple Walnut + Marshmallow). It would be quite easy to build a random combo generator, but this would inevitably create some very... *interesting* milkshakes. Another level to this would use word2vec and sentiment analysis to group similar flavours together (i.e. berries, fruits, etc.) to intelligently combine the flavours instead of by random chance.
 
 # Code Challenge
 My [solution](https://bubkuk.csb.app)for the technical challenge.
