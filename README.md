@@ -22,7 +22,7 @@ Technical Challenge for Critical Mass 2022
 3. Project 3: [MagicMirror](https://github.com/MichMich/MagicMirror)
 
 
-   I recently completed an interation of this project on a spare 21" TV and a Raspberry Pi 3B, and I was amazed at the customization options within the modular system. The integration of the individual modules (my favourite being the NowPlayingOnSpotify) within the broader smart mirror is fascinating to me, not to mention the technical capabilities of the modules themselves. The software is understandable even without much technical experience and I was able to customise my MagicMirror just by following the guides provided. Overall, this project showcases api integration in an easy to read at-a-glance implementation very well, and I hope to develop my own MagicMirror module in the future.
+   I recently completed an iteration of this project on a spare 21" TV and a Raspberry Pi 3B, and I was amazed at the customization options within the modular system. The integration of the individual modules (my favourite being the NowPlayingOnSpotify) within the broader smart mirror is fascinating to me, not to mention the technical capabilities of the modules themselves. The software is understandable even without much technical experience and I was able to customise my MagicMirror just by following the guides provided. Overall, this project showcases api integration in an easy to read at-a-glance implementation very well, and I hope to develop my own MagicMirror module in the future.
 
 # Focus
 
