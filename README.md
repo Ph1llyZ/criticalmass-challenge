@@ -2,7 +2,7 @@
 Technical Challenge for Critical Mass 2022
 # Work / Project Examples
 
-1. Project 1: U of A ESS 2022 By-Election Campaign Website: [Vote Eric & Philip!](https://sites.ualberta.ca/~hongchen/)
+1. Project 1: U of A Engineering Students' Society (ESS) 2022 By-Election Campaign Website: [Vote Eric & Philip!](https://sites.ualberta.ca/~hongchen/)
    For this project, I was responsible for designing, coding, and uploading the website for our campaign in  the 2022 ESS By-election for VP Finance. The frontend was created using Bootstrap Studio and hosted on the U  of A sites service. Using Bootstrap Studio provided the HTML and CSS template and styling without having to create everything from scratch as the entire project needed to be completed within the day. Photos were taken by myself and Adrian Wattamaniuk.
    
 2. Project 2: [BTFM](https://btfm.ca) 
